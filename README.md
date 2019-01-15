@@ -1,4 +1,5 @@
 # py_repo
-First Repository
 
-Hello! everyone...this is a repository generally made for the discussion of python code....
+It is a unique repository which is used to maintain some of the python programs in order to practice them in the required python interpreter.
+
+Python Programs are shown in files as filename.py....
